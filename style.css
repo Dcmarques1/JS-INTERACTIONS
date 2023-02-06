@@ -1,0 +1,11 @@
+
+div{
+    background-color: blue;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    justify-content: center;
+    padding: 50px;
+    display: flex;
+    margin: 200px;
+}
